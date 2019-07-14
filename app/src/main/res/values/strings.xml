@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="label_welcome_to_alc">Welcome to ALC 4.0</string>
+    <string name="label_about_alc">About ALC</string>
+    <string name="label_my_profile">My Profile</string>
+    <string name="label_full_name">Abdulsemed Lezin</string>
+    <string name="label_email">Email</string>
+    <string name="label_personal_email">abdul.lezin57@gmail.com</string>
+    <string name="label_country">Country</string>
+    <string name="label_ethiopia">Ethiopia</string>
+    <string name="label_phone">Phone Number</string>
+    <string name="label_phone_number">+251912321698</string>
+    <string name="label_track">Track</string>
+    <string name="label_android">Android</string>
+    <string name="label_slack_username">Slack Username</string>
+    <string name="label_slack_display_name">\@abdulBytes</string>
+
+</resources>
