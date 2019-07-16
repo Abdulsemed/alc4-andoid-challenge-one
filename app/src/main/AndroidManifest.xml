@@ -13,23 +13,29 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+
         <activity
             android:label="@string/label_about_alc"
             android:name=".AboutALCActivity"
+            android:parentActivityName=".MainActivity"
             android:configChanges="orientation|screenSize" />
-        <activity android:name=".ProfileActivity" android:label="@string/label_my_profile">
+
+        <activity android:name=".ProfileActivity"
+            android:label="@string/label_my_profile"
+            android:parentActivityName=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <action android:name="android.intent.action.VIEW" />
             </intent-filter>
         </activity>
+
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
     </application>
 
 </manifest>
