@@ -1,6 +1,7 @@
 # ALC 4 Andoid Challenge One
 Simple application includes three activities. Profile page and Webview that shows content of Andela official website.
-![Profile Screen](https://user-images.githubusercontent.com/7289610/61182411-5d4b2d80-a63b-11e9-8689-2b543634977d.jpg)
-![Welcom Screen](https://user-images.githubusercontent.com/7289610/61182412-5d4b2d80-a63b-11e9-8cf4-dfbf922d7326.jpg)
-![About ALC](https://user-images.githubusercontent.com/7289610/61182414-5fad8780-a63b-11e9-8e0f-f3b76e23ce07.jpg)
+![Welcom Screen](https://user-images.githubusercontent.com/7289610/61316950-a9000180-a80a-11e9-9e24-83a50779d865.jpg)
+![Profile Screen](https://user-images.githubusercontent.com/7289610/61316952-a9000180-a80a-11e9-9357-c00ff91887dc.png)
+![About ALC Screen](https://user-images.githubusercontent.com/7289610/61316953-a9989800-a80a-11e9-98cb-54ee08364443.png)
+
 
